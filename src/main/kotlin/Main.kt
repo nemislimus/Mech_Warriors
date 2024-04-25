@@ -116,3 +116,5 @@ fun main() {
     deadOne.leftGun.getAmmoInfo()
     deadOne.rightGun.getAmmoInfo()
 }
+
+//откатили main назад к initial
